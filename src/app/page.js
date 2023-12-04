@@ -28,7 +28,10 @@ export default function Home() {
     <Link href="/SumSquareDifference">
         Sum Square Difference
     </Link>
-
+    <br></br>
+    <Link href="/NthPrime">
+        Nth Prime
+    </Link>
       </>
 
   )
