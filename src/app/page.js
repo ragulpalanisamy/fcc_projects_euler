@@ -32,6 +32,10 @@ export default function Home() {
     <Link href="/NthPrime">
         Nth Prime
     </Link>
+    <br></br>
+    <Link href="/largestProductinaSeries">
+    largest Product in a Series
+    </Link>
       </>
 
   )
