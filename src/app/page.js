@@ -20,6 +20,10 @@ export default function Home() {
     <Link href="/Larg_Palindrome_product">
         largest Palindrome Product
     </Link>
+    <br></br>
+    <Link href="/SmallestMultiple">
+        Smallest Multiple
+    </Link>
       </>
 
   )
