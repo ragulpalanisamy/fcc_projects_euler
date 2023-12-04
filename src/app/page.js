@@ -24,6 +24,11 @@ export default function Home() {
     <Link href="/SmallestMultiple">
         Smallest Multiple
     </Link>
+    <br></br>
+    <Link href="/SumSquareDifference">
+        Sum Square Difference
+    </Link>
+
       </>
 
   )
