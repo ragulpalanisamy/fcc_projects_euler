@@ -36,6 +36,11 @@ export default function Home() {
     <Link href="/largestProductinaSeries">
     largest Product in a Series
     </Link>
+    <br></br>
+      <Link href="/Pythagorean_triplet">
+      Pythagorean triplet
+      </Link>
+      <br></br>
       </>
 
   )
