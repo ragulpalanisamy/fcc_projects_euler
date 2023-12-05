@@ -48,6 +48,10 @@ export default function Home() {
       <Link href="/Larg_Prod_in_grid">
       Largest Product in a grid
       </Link>
+      <br></br>
+      <Link href="/triangular_number">
+      Triangular Number
+      </Link>
       </>
   )
 }
