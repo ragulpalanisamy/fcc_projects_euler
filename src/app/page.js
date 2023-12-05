@@ -41,6 +41,9 @@ export default function Home() {
       Pythagorean triplet
       </Link>
       <br></br>
+      <Link href="/Summation_of_Primes">
+      Summation of Primes
+      </Link>
       </>
 
   )
