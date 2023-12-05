@@ -44,7 +44,10 @@ export default function Home() {
       <Link href="/Summation_of_Primes">
       Summation of Primes
       </Link>
+      <br></br>
+      <Link href="/Larg_Prod_in_grid">
+      Largest Product in a grid
+      </Link>
       </>
-
   )
 }
