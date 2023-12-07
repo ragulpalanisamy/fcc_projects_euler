@@ -56,6 +56,10 @@ export default function Home() {
       <Link href="/Large_Sum">
       largest sum
       </Link>
+      <br></br>
+      <Link href="/Collatz_sequence">
+      Collatz sequence
+      </Link>
       </>
   )
 }
