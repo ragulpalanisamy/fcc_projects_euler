@@ -52,6 +52,10 @@ export default function Home() {
       <Link href="/triangular_number">
       Triangular Number
       </Link>
+      <br></br>
+      <Link href="/Large_Sum">
+      largest sum
+      </Link>
       </>
   )
 }
