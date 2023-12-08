@@ -60,6 +60,10 @@ export default function Home() {
       <Link href="/Collatz_sequence">
       Collatz sequence
       </Link>
+      <br></br>
+      <Link href="/latticePaths">
+      lattice Paths
+      </Link>
       </>
   )
 }
