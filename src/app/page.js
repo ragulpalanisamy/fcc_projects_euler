@@ -68,6 +68,10 @@ export default function Home() {
       <Link href="/power_diigit_sum">
       power diigit sum
       </Link>
+      <br></br>
+      <Link href="/Number_Letter_Count">
+      Number_Letter_Count
+            </Link>
       </>
   )
 }
