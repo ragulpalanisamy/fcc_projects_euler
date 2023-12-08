@@ -71,7 +71,11 @@ export default function Home() {
       <br></br>
       <Link href="/Number_Letter_Count">
       Number_Letter_Count
-            </Link>
+      </Link>
+      <br></br>
+      <Link href="/Maxi_path_sum">
+      Maxi_path_sum
+      </Link>     
       </>
   )
 }
