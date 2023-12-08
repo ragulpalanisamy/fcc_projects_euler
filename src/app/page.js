@@ -64,6 +64,10 @@ export default function Home() {
       <Link href="/latticePaths">
       lattice Paths
       </Link>
+      <br></br>
+      <Link href="/power_diigit_sum">
+      power diigit sum
+      </Link>
       </>
   )
 }
