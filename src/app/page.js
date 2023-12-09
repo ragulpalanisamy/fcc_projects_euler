@@ -75,7 +75,11 @@ export default function Home() {
       <br></br>
       <Link href="/Maxi_path_sum">
       Maxi_path_sum
-      </Link>     
+      </Link>    
+      <br></br>
+      <Link href="/Counting_Sunday">
+      Counting Sunday
+      </Link> 
       </>
   )
 }
