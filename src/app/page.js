@@ -1,10 +1,53 @@
 'use client'
-import Link from 'next/link'
+
+import React, { useEffect } from 'react';
+import Particles from 'tsparticles';
+import Link from 'next/link';
 
 export default function Home() {
-  return  (
-  <>
-   
+    useEffect(() => {
+        // This ensures particles.js is only loaded on the client side
+        const particlesJS = require('particles.js');
+
+        particlesJS.load('particles-js', 'assets/particles.json', () => {
+            console.log('callback - particles.js config loaded');
+        });
+    }, []);
+
+    const particlesOptions = {
+        background: {
+            color: {
+                value: "#000000",
+            },
+        },
+        fpsLimit: 120,
+        interactivity: {
+            events: {
+                onClick: {
+                    enable: true,
+                    mode: "push",
+                },
+                onHover: {
+                    enable: true,
+                    mode: "repulse",
+                },
+                resize: true,
+            },
+            modes: {
+                push: {
+                    quantity: 4,
+                },
+                repulse: {
+                    distance: 100,
+                    duration: 0.4,
+                }
+            },
+        },
+    };
+    return (
+      <>
+          <Particles id="tsparticles" options={particlesOptions} />
+
   <Link href="/Even_Fibonacci_Numbers" style={{ marginRight: 10  }}>
       Even_Fibonacci_Numbers
     </Link>
