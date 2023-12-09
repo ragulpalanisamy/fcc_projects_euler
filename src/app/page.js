@@ -57,28 +57,32 @@ export default function Home() {
       largest sum
       </Link>
       <br></br>
-      <Link href="/Collatz_sequence">
+      <Link href="../Pro-1/Collatz_sequence">
       Collatz sequence
       </Link>
       <br></br>
-      <Link href="/latticePaths">
+      <Link href="../Pro-1/latticePaths">
       lattice Paths
       </Link>
       <br></br>
-      <Link href="/power_diigit_sum">
+      <Link href="../Pro-1/power_diigit_sum">
       power diigit sum
       </Link>
       <br></br>
-      <Link href="/Number_Letter_Count">
+      <Link href="../Pro-1/Number_Letter_Count">
       Number_Letter_Count
       </Link>
       <br></br>
-      <Link href="/Maxi_path_sum">
+      <Link href="../Pro-1/Maxi_path_sum">
       Maxi_path_sum
       </Link>    
       <br></br>
-      <Link href="/Counting_Sunday">
+      <Link href="../Pro-1/Counting_Sunday">
       Counting Sunday
+      </Link> 
+      <br></br>
+      <Link href="../Pro-1/Factorial_digit_sum">
+      Factorial_digit_sum
       </Link> 
       </>
   )
