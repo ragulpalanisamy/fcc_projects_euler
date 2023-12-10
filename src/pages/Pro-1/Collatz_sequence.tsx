@@ -1,4 +1,5 @@
 import React from 'react'
+import Design from '../../components/Design';
 
 export default function Collatz_sequence() {
     const codesnippet = `
@@ -54,6 +55,7 @@ export default function Collatz_sequence() {
     }
     return (
         <div>
+            <Design />
             <h1>
                 Collatz_sequence
             </h1>
