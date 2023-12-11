@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 
 export default function Pythagorean_triplet() {
@@ -36,6 +38,7 @@ export default function Pythagorean_triplet() {
     specialPythagoreanTriplet(1000);
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Pythagorean_triplet
             </h1>

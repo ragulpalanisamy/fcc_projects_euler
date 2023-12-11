@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function Large_Sum() {
     const codeSnippet = `
@@ -25,6 +27,7 @@ export default function Large_Sum() {
     largeSum(testNums);
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Large Sum
             </h1>

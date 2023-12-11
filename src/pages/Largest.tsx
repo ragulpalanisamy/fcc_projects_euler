@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function Largest() {
     const codeSnippet = `
@@ -33,6 +35,7 @@ export default function Largest() {
     };
     return (
         <div>
+            <DesignTypeScript />
             <h1>Largest Prime Factor</h1>
             <pre>
                 <code>{codeSnippet}</code>

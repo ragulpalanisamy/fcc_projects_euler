@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function triangular_number() {
     const codesnippet = `
@@ -50,6 +52,7 @@ export default function triangular_number() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Highly divisible triangular number
             </h1>

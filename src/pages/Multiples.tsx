@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function Multiples() {
     const codesnippet = `
@@ -25,6 +27,7 @@ export default function Multiples() {
 
     return (
         <div>
+            <DesignTypeScript />
             <h1>Multiples of 3 or 5</h1>
             <pre>
                 <code>{codesnippet}</code>

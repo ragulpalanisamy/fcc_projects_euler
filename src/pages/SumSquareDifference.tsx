@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function SumSquareDifference() {
     const codesnippet = `
@@ -19,6 +21,7 @@ export default function SumSquareDifference() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>Sum Square Difference</h1>
             <pre>
                 <code>{codesnippet}</code>
