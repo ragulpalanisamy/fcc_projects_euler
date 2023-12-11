@@ -26,7 +26,7 @@ export default function Design() {
                 options={{
                     background: {
                         color: {
-                            value: "#0d47a1",
+                            value: "#0d",
                         },
                     },
                     fpsLimit: 120,
@@ -36,6 +36,7 @@ export default function Design() {
                                 enable: true,
                                 mode: "push",
                             },
+
                             onHover: {
                                 enable: true,
                                 mode: "repulse",
