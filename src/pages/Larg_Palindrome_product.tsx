@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function Larg_Palindrome_product() {
     const codeSnippet = `
@@ -68,7 +70,7 @@ export default function Larg_Palindrome_product() {
         return largest;
     }
     return (
-        <div>largest palindrome product
+        <><DesignTypeScript /><div>largest palindrome product
             <pre>
                 <code>{codeSnippet}</code>
             </pre>
@@ -76,7 +78,7 @@ export default function Larg_Palindrome_product() {
                 {largestPalindromeProduct(3)}
             </p>
 
-        </div>
+        </div></>
 
 
     )
