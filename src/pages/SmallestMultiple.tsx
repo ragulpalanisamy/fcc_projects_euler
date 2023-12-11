@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function SmallestMultiple() {
     const codesnippet = `
@@ -45,6 +47,7 @@ export default function SmallestMultiple() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>Smallest Multiple</h1>
             <pre>
                 <code>{codesnippet}</code>

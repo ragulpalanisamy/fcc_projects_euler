@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function LargestNumberofSeries() {
     const codesnippet = `
@@ -45,6 +47,7 @@ export default function LargestNumberofSeries() {
     largestProductinaSeries(13);
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 LargestNumberofSeries
             </h1>

@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function Summation_of_Primes() {
     const codesnippet = `
@@ -42,6 +44,7 @@ export default function Summation_of_Primes() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Summation_of_Primes
             </h1>

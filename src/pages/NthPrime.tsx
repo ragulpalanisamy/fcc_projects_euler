@@ -1,4 +1,6 @@
 import React from 'react'
+import '../app/globals.css'
+import DesignTypeScript from '../components/DesignTypeScript';
 
 export default function NthPrime() {
     const codesnippet = `
@@ -70,6 +72,7 @@ export default function NthPrime() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 N<sup>th</sup> Prime
             </h1>
