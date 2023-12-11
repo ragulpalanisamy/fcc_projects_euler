@@ -56,7 +56,7 @@ export default function Collatz_sequence() {
     return (
         <div>
             <Design />
-            <h1>
+            <h1 style={{ textAlign: 'center' }} className='bg-white'>
                 Collatz_sequence
             </h1>
             <pre>
