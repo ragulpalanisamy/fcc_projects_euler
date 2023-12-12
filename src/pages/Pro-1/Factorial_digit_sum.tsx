@@ -1,4 +1,6 @@
 import React from 'react'
+import "../../app/globals.css";
+import DesignTypeScript from '../../components/DesignTypeScript';
 
 export default function Factorial_digit_sum() {
     const codesnippet = `
@@ -25,6 +27,7 @@ export default function Factorial_digit_sum() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Factorial digit sum
             </h1>

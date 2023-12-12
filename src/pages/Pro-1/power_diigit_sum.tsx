@@ -1,4 +1,6 @@
 import React from 'react'
+import "../../app/globals.css";
+import DesignTypeScript from '../../components/DesignTypeScript';
 
 export default function power_diigit_sum() {
     const codesnippet = `
@@ -24,6 +26,7 @@ export default function power_diigit_sum() {
     powerDigitSum(15);
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 power_diigit_sum
             </h1>

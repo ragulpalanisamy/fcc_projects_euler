@@ -1,4 +1,6 @@
 import React from 'react'
+import "../../app/globals.css";
+import DesignTypeScript from '../../components/DesignTypeScript';
 
 export default function Counting_Sunday() {
     const codesnippet = `
@@ -100,6 +102,7 @@ export default function Counting_Sunday() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Counting Sunday
             </h1>
