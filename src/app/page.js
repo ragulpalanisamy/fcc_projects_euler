@@ -88,6 +88,10 @@ export default function Home() {
         <Link href="../Pro-1/Factorial_digit_sum">
         Factorial_digit_sum
         </Link> 
+        <br></br>
+        <Link href="../Pro-1/Factorial_digit">
+        Factorial digit 
+        </Link> 
         </div>
 
       </>
