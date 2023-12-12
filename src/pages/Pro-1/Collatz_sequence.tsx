@@ -1,5 +1,5 @@
-import React from 'react'
-import Design from '../../components/Design';
+import "../../app/globals.css";
+import DesignTypeScript from '../../components/DesignTypeScript';
 
 export default function Collatz_sequence() {
     const codesnippet = `
@@ -55,7 +55,7 @@ export default function Collatz_sequence() {
     }
     return (
         <div>
-            <Design />
+            <DesignTypeScript />
             <h1 style={{ textAlign: 'center' }} className='bg-white'>
                 Collatz_sequence
             </h1>

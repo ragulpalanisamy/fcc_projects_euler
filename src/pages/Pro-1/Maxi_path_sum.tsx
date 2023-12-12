@@ -1,4 +1,6 @@
 import React from 'react'
+import "../../app/globals.css";
+import DesignTypeScript from '../../components/DesignTypeScript';
 
 export default function Maxi_path_sum() {
     const codesnippet = `
@@ -29,6 +31,7 @@ export default function Maxi_path_sum() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Maxi_path_sum
             </h1>

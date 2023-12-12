@@ -1,4 +1,6 @@
 import React from 'react'
+import "../../app/globals.css";
+import DesignTypeScript from '../../components/DesignTypeScript';
 
 export default function Lattice_paths() {
     const codesnippet = `
@@ -60,6 +62,7 @@ export default function Lattice_paths() {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Lattice paths
             </h1>
