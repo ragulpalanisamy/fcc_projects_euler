@@ -92,6 +92,10 @@ export default function Home() {
         <Link href="../Pro-1/Factorial_digit">
         Factorial digit 
         </Link> 
+        <br></br>
+        <Link href="../Pro-1/Amicable_numbers">
+        Amicable numbers
+        </Link> 
         </div>
 
       </>
