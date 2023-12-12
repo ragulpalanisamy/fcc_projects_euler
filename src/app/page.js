@@ -100,6 +100,10 @@ export default function Home() {
         <Link href="../Pro-1/Names_scores">
         Names scores        
         </Link> 
+        <br></br>
+        <Link href="../Pro-2/Abudant_sum">
+        Abudant sum
+        </Link> 
         </div>
 
       </>
