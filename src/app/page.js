@@ -96,6 +96,10 @@ export default function Home() {
         <Link href="../Pro-1/Amicable_numbers">
         Amicable numbers
         </Link> 
+        <br></br>
+        <Link href="../Pro-1/Names_scores">
+        Names scores        
+        </Link> 
         </div>
 
       </>
