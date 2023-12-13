@@ -88,6 +88,9 @@ export default function Home() {
         <Link href="../Pro-2/Fibonacci_Number">
         Fibonacci Number
         </Link> 
+        <Link href="../Pro-2/Reciprocal_cycles">
+        Reciprocal cycles
+        </Link>
         </div>
         </div>
 
