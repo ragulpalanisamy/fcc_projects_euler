@@ -1,4 +1,6 @@
 import React from 'react'
+import DesignTypeScript from '../../components/DesignTypeScript';
+import "../../app/globals.css";
 
 export default function Lexicographic_permutations() {
     const codesnippet = `
@@ -42,6 +44,7 @@ function lexicographicPermutations(n) {
     }
     return (
         <div>
+            <DesignTypeScript />
             <h1>
                 Lexicographic_permutations
             </h1>
