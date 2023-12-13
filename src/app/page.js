@@ -91,6 +91,9 @@ export default function Home() {
         <Link href="../Pro-2/Reciprocal_cycles">
         Reciprocal cycles
         </Link>
+        <Link href="../Pro-2/Quadratic_primes">
+        Quadratic primes
+        </Link>
         </div>
         </div>
 
