@@ -85,6 +85,9 @@ export default function Home() {
         <Link href="../Pro-2/Lexicographic_permutations">
         Lexicographic permutations
         </Link> 
+        <Link href="../Pro-2/Fibonacci_Number">
+        Fibonacci Number
+        </Link> 
         </div>
         </div>
 
