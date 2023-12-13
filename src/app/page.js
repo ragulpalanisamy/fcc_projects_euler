@@ -104,8 +104,10 @@ export default function Home() {
         <Link href="../Pro-2/Abudant_sum">
         Abudant sum
         </Link> 
+        <Link href="../Pro-2/Lexicographic_permutations">
+        Lexicographic permutations
+        </Link> 
         </div>
-
       </>
   )
 }
