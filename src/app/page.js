@@ -94,6 +94,9 @@ export default function Home() {
         <Link href="../Pro-2/Quadratic_primes">
         Quadratic primes
         </Link>
+        <Link href="../Pro-2/Number_spiral_diagonals">
+        Number spiral diagonals
+        </Link>
         </div>
         </div>
 
