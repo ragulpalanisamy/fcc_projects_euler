@@ -11,7 +11,6 @@
   "dependencies": {
     "cra-template-particles": "^3.0.0",
     "next": "14.0.3",
-    "particles.js": "^2.0.0",
     "react": "^18",
     "react-dom": "^18",
     "react-particles": "^2.12.2",
