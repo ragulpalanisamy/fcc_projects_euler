@@ -100,6 +100,10 @@ export default function Home() {
         <Link href="../Pro-2/Distinct_powers">
         Distinct powers
         </Link>
+        <Link href="../Pro-2/Digit_n_powers">
+        Digit n powers
+        </Link>
+        
         </div>
         </div>
 
