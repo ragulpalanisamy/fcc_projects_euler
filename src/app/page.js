@@ -97,6 +97,9 @@ export default function Home() {
         <Link href="../Pro-2/Number_spiral_diagonals">
         Number spiral diagonals
         </Link>
+        <Link href="../Pro-2/Distinct_powers">
+        Distinct powers
+        </Link>
         </div>
         </div>
 
