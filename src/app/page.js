@@ -103,7 +103,12 @@ export default function Home() {
         <Link href="../Pro-2/Digit_n_powers">
         Digit n powers
         </Link>
-        
+        <Link href="../Pro-2/Custom">
+        Custom
+        </Link>
+        <Link href="../Pro-2/Jquery_1">
+        Jquery_1
+        </Link>
         </div>
         </div>
 
