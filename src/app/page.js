@@ -109,6 +109,9 @@ export default function Home() {
         <Link href="../Pro-2/Jquery_1">
         Jquery_1
         </Link>
+        <Link href="../Pro-2/Sass_1">
+        Sass_1
+        </Link>
         </div>
         </div>
 
