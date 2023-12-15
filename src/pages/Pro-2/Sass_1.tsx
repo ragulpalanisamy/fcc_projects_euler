@@ -29,6 +29,24 @@ $text-color: red;
   <p>Even more random text within a paragraph</p>
 </div>
     `;
+
+    const codesnippet1 = `<style type='text/scss'>
+    .blog-post {
+  
+    h1 {
+      text-align: center;
+      color: blue;
+    }
+    p {
+      font-size: 20px;
+    }
+    }
+  </style>
+  
+  <div class="blog-post">
+    <h1>Blog Title</h1>
+    <p>This is a paragraph</p>
+  </div>`;
   return (
     <div>
         <DesignTypeScript />
@@ -39,6 +57,14 @@ $text-color: red;
         <pre>
             <code>
                 {codesnippet}
+            </code>
+        </pre>
+        <h1>
+        Nest CSS with Sass
+        </h1>
+        <pre>
+            <code>
+                {codesnippet1}
             </code>
         </pre>
     </div>
