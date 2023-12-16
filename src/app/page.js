@@ -112,9 +112,11 @@ export default function Home() {
         <Link href="../Pro-2/Sass_1">
         Sass_1
         </Link>
+        <Link href="../Pro-3/Mixins">
+        Mixins
+        </Link>
         </div>
         </div>
-
       </>
   )
 }
