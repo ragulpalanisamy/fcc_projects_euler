@@ -118,6 +118,9 @@ export default function Home() {
         <Link href="../Pro-3/Coin_sums">
         Coin sums
         </Link>
+        <Link href="../Pro-3/Pandigital-products">
+        Pandigital-products
+        </Link>
         </div>
         </div>
       </>
