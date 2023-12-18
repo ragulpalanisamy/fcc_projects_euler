@@ -124,6 +124,9 @@ export default function Home() {
         <Link href="../Pro-3/DigitCancellingFractions">
         DigitCancellingFractions
         </Link>
+        <Link href="../Pro-3/Digit_factorials">
+        Digit_factorials
+        </Link>
         
         </div>
         </div>
