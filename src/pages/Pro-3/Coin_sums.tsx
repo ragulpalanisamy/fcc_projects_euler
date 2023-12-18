@@ -37,6 +37,9 @@ export default function Coin_sums() {
                 {codesnippet}
             </code>
         </pre>
+        <p>
+            {coinSums(200)}
+        </p>
     </div>
   )
 }
