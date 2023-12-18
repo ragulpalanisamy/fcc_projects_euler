@@ -121,6 +121,10 @@ export default function Home() {
         <Link href="../Pro-3/Pandigital-products">
         Pandigital-products
         </Link>
+        <Link href="../Pro-3/DigitCancellingFractions">
+        DigitCancellingFractions
+        </Link>
+        
         </div>
         </div>
       </>
