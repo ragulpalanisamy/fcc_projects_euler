@@ -115,6 +115,9 @@ export default function Home() {
         <Link href="../Pro-3/Mixins">
         Mixins
         </Link>
+        <Link href="../Pro-3/Coin_sums">
+        Coin sums
+        </Link>
         </div>
         </div>
       </>
