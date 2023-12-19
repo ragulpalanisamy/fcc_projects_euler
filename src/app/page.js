@@ -130,6 +130,9 @@ export default function Home() {
         <Link href="../Pro-3/Circular_primes">
         Circular_primes
         </Link>
+        <Link href="../Pro-3/Double_base">
+        Double base
+        </Link>
         </div>
         </div>
       </>
