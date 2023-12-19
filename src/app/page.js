@@ -133,6 +133,9 @@ export default function Home() {
         <Link href="../Pro-3/Double_base">
         Double base Palindrome
         </Link>
+        <Link href="../Pro-3/Truncatable_primes">
+        Truncatable primes
+        </Link>
         </div>
         </div>
       </>
