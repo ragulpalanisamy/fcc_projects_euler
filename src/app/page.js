@@ -136,6 +136,9 @@ export default function Home() {
         <Link href="../Pro-3/Truncatable_primes">
         Truncatable primes
         </Link>
+        <Link href="../Pro-3/Pandigital_number">
+        Pandigital number
+        </Link>
         </div>
         </div>
       </>
