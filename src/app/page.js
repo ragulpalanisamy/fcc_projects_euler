@@ -131,7 +131,7 @@ export default function Home() {
         Circular_primes
         </Link>
         <Link href="../Pro-3/Double_base">
-        Double base
+        Double base Palindrome
         </Link>
         </div>
         </div>
