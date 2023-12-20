@@ -142,6 +142,9 @@ export default function Home() {
         <Link href="../Pro-3/Pandigital_multiples">
         Pandigital multiples
         </Link>
+        <Link href="../Pro-3/Integer_right_triangles">
+        Integer right triangles
+        </Link>
         </div>
         </div>
       </>
