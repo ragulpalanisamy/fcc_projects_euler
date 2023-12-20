@@ -137,7 +137,10 @@ export default function Home() {
         Truncatable primes
         </Link>
         <Link href="../Pro-3/Pandigital_number">
-        Pandigital number
+        Pandigital number        
+        </Link>
+        <Link href="../Pro-3/Pandigital_multiples">
+        Pandigital multiples
         </Link>
         </div>
         </div>
