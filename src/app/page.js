@@ -145,6 +145,9 @@ export default function Home() {
         <Link href="../Pro-3/Integer_right_triangles">
         Integer right triangles
         </Link>
+        <Link href="../Pro-3/Champernowne_constant">
+        Champernowne constant
+        </Link>
         </div>
         </div>
       </>
