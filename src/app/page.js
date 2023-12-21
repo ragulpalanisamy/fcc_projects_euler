@@ -157,6 +157,9 @@ export default function Home() {
         <Link href="../Pro-4/Substring_divisibility">
         Substring divisibility
         </Link>
+        <Link href="../Pro-4/Pentagon_numbers">
+        Pentagon numbers
+        </Link>
         </div>
         </div>
       </>
