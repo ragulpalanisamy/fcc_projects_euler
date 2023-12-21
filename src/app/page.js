@@ -154,6 +154,9 @@ export default function Home() {
         <Link href="../Pro-4/Coded_triangle_numbers">
         Coded triangle numbers
         </Link>
+        <Link href="../Pro-4/Substring_divisibility">
+        Substring divisibility
+        </Link>
         </div>
         </div>
       </>
