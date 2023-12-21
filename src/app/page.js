@@ -148,6 +148,9 @@ export default function Home() {
         <Link href="../Pro-3/Champernowne_constant">
         Champernowne constant
         </Link>
+        <Link href="../Pro-4/Pandigital_prime">
+        Pandigital prime
+        </Link>
         </div>
         </div>
       </>
