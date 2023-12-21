@@ -151,6 +151,9 @@ export default function Home() {
         <Link href="../Pro-4/Pandigital_prime">
         Pandigital prime
         </Link>
+        <Link href="../Pro-4/Coded_triangle_numbers">
+        Coded triangle numbers
+        </Link>
         </div>
         </div>
       </>
