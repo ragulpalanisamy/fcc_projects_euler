@@ -163,6 +163,9 @@ export default function Home() {
         <Link href="../Pro-4/triangle_pentagon_hexagon">
         triangle_pentagon_hexagon
         </Link>
+        <Link href="../Pro-4/Goldbach_other_conjecture">
+        Goldbach_other_conjecture
+        </Link>
         </div>
         </div>
       </>
