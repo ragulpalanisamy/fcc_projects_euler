@@ -166,6 +166,9 @@ export default function Home() {
         <Link href="../Pro-4/Goldbach_other_conjecture">
         Goldbach_other_conjecture
         </Link>
+        <Link href="../Pro-4/Distinct_primes_factors">
+        Distinct primes factors
+        </Link>
         </div>
         </div>
       </>
