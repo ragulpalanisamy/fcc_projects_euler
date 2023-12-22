@@ -160,6 +160,9 @@ export default function Home() {
         <Link href="../Pro-4/Pentagon_numbers">
         Pentagon numbers
         </Link>
+        <Link href="../Pro-4/triangle_pentagon_hexagon">
+        triangle_pentagon_hexagon
+        </Link>
         </div>
         </div>
       </>
