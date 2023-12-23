@@ -151,6 +151,27 @@ export default function Home() {
         <Link href="../Pro-4/Pandigital_prime">
         Pandigital prime
         </Link>
+        <Link href="../Pro-4/Coded_triangle_numbers">
+        Coded triangle numbers
+        </Link>
+        <Link href="../Pro-4/Substring_divisibility">
+        Substring divisibility
+        </Link>
+        <Link href="../Pro-4/Pentagon_numbers">
+        Pentagon numbers
+        </Link>
+        <Link href="../Pro-4/triangle_pentagon_hexagon">
+        triangle_pentagon_hexagon
+        </Link>
+        <Link href="../Pro-4/Goldbach_other_conjecture">
+        Goldbach_other_conjecture
+        </Link>
+        <Link href="../Pro-4/Distinct_primes_factors">
+        Distinct primes factors
+        </Link>
+        <Link href="../Pro-4/Self_powers">
+        Self powers
+        </Link>
         </div>
         </div>
       </>
