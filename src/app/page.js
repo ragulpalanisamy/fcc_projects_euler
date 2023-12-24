@@ -172,6 +172,9 @@ export default function Home() {
         <Link href="../Pro-4/Self_powers">
         Self powers
         </Link>
+        <Link href="../Pro-4/Prime_permutations">
+        Prime_permutations
+        </Link>
         </div>
         </div>
       </>
