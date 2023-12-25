@@ -181,6 +181,9 @@ export default function Home() {
         <Link href="../Pro-4/Prime_digit_replacements">
         Prime digit replacements
         </Link>
+        <Link href="../Pro-4/Permuted_multiples">
+        Permuted multiples
+        </Link>
         </div>
         </div>
       </>
