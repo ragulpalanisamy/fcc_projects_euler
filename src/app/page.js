@@ -178,6 +178,9 @@ export default function Home() {
         <Link href="../Pro-4/Consecutive_prime_sum">
         Consecutive prime sum
         </Link>
+        <Link href="../Pro-4/Prime_digit_replacements">
+        Prime digit replacements
+        </Link>
         </div>
         </div>
       </>
