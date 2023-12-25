@@ -184,6 +184,9 @@ export default function Home() {
         <Link href="../Pro-4/Permuted_multiples">
         Permuted multiples
         </Link>
+        <Link href="../Pro-4/Combinatoric_selections">
+        Combinatoric selections
+        </Link>
         </div>
         </div>
       </>
