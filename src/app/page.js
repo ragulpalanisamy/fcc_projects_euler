@@ -187,6 +187,9 @@ export default function Home() {
         <Link href="../Pro-4/Combinatoric_selections">
         Combinatoric selections
         </Link>
+        <Link href="../Pro-4/Poker_hands">
+        Poker hands
+        </Link>
         </div>
         </div>
       </>
