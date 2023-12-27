@@ -196,6 +196,9 @@ export default function Home() {
         <Link href="../Pro-5/Sibling_elements">
         Sibling elements
         </Link>
+        <Link href="../Pro-5/Dynamic_Array">
+        Dynamic Array
+        </Link>
         </div>
         </div>
       </>
