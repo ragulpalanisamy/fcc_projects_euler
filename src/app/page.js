@@ -190,6 +190,9 @@ export default function Home() {
         <Link href="../Pro-4/Poker_hands">
         Poker hands
         </Link>
+        <Link href="../Pro-5/Simple_todo">
+        Simple todo
+        </Link>
         </div>
         </div>
       </>
