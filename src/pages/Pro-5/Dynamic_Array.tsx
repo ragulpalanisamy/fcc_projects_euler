@@ -51,6 +51,20 @@ export default function Dynamic_Array() {
         }
       }
     `;
+
+    const codesnippet1 = `
+    class App extends React.Component {
+      constructor(props) {
+        super(props);
+      }
+      render() {
+        return <div/>
+      }
+    };
+    
+    // Change code below this line
+    ReactDOMServer.renderToString(<App/>)
+    `;
   return (
     <div>
         <DesignTypeScript />
@@ -61,6 +75,15 @@ export default function Dynamic_Array() {
             <code>
                 {codesnippet}
             </code>
+        </pre>
+
+        <h1>
+        Render React on the Server with renderToString
+        </h1>
+        <pre>
+          <code>
+            {codesnippet1}
+          </code>
         </pre>
     </div>
   )

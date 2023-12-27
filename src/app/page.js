@@ -199,6 +199,9 @@ export default function Home() {
         <Link href="../Pro-5/Dynamic_Array">
         Dynamic Array
         </Link>
+        <Link href="../Pro-5/Redux_store">
+        Redux store
+        </Link>
         </div>
         </div>
       </>
