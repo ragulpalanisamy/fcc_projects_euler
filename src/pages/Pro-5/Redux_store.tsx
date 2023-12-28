@@ -39,6 +39,32 @@ export default function Redux_store() {
   // Dispatch the action here:
   store.dispatch(loginAction())
   `;
+
+  const codesnippet3 = `
+  const defaultState = {
+    login: false
+  };
+  
+  const reducer = (state = defaultState, action) => {
+    // change code below this line
+    if (action.type === "LOGIN") {
+      return {
+        login: true
+      };
+    } else {
+      return state;
+    }
+    // change code above this line
+  };
+  
+  const store = Redux.createStore(reducer);
+  
+  const loginAction = () => {
+    return {
+      type: "LOGIN"
+    };
+  };
+  `;
   return (
     <div>
         <DesignTypeScript />
@@ -67,6 +93,16 @@ export default function Redux_store() {
        <pre>
           <code>
             {codesnippet2}
+          </code>
+       </pre>
+
+       <h1>
+       Handle an Action in the Store
+       </h1>
+
+       <pre>
+          <code>
+              {codesnippet3}
           </code>
        </pre>
     </div>
