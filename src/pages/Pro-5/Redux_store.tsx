@@ -24,6 +24,21 @@ export default function Redux_store() {
   const currentState = store.getState();
   console.log(currentState)
   `;
+
+  const codesnippet2 = `
+  const store = Redux.createStore(
+    (state = {login: false}) => state
+  );
+  
+  const loginAction = () => {
+    return {
+      type: 'LOGIN'
+    }
+  };
+  
+  // Dispatch the action here:
+  store.dispatch(loginAction())
+  `;
   return (
     <div>
         <DesignTypeScript />
@@ -44,6 +59,15 @@ export default function Redux_store() {
         <code>
           {codesnippet1}
         </code>
+       </pre>
+
+       <h1>
+       Dispatch an Action Event
+       </h1>
+       <pre>
+          <code>
+            {codesnippet2}
+          </code>
        </pre>
     </div>
   )
