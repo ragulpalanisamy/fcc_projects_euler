@@ -202,6 +202,9 @@ export default function Home() {
         <Link href="../Pro-5/Redux_store">
         Redux store
         </Link>
+        <Link href="../Pro-5/Random_quote">
+        Random quote
+        </Link>
         </div>
         </div>
       </>
