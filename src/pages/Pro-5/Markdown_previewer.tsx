@@ -1,5 +1,6 @@
 import React from 'react'
 import DesignTypeScript from '../../components/DesignTypeScript'
+import "../../app/globals.css"
 
 export default function Markdown_previewer() {
     const codesnippet = `

@@ -208,6 +208,9 @@ export default function Home() {
         <Link href="../Pro-5/Markdown_previewer">
         Markdown previewer
         </Link>
+        <Link href="../Pro-5/Drum_machine">
+        Drum machine
+        </Link>
         </div>
         </div>
       </>
