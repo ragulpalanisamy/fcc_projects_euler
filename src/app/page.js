@@ -172,6 +172,45 @@ export default function Home() {
         <Link href="../Pro-4/Self_powers">
         Self powers
         </Link>
+        <Link href="../Pro-4/Prime_permutations">
+        Prime_permutations
+        </Link>
+        <Link href="../Pro-4/Consecutive_prime_sum">
+        Consecutive prime sum
+        </Link>
+        <Link href="../Pro-4/Prime_digit_replacements">
+        Prime digit replacements
+        </Link>
+        <Link href="../Pro-4/Permuted_multiples">
+        Permuted multiples
+        </Link>
+        <Link href="../Pro-4/Combinatoric_selections">
+        Combinatoric selections
+        </Link>
+        <Link href="../Pro-4/Poker_hands">
+        Poker hands
+        </Link>
+        <Link href="../Pro-5/Simple_todo">
+        Simple todo
+        </Link>
+        <Link href="../Pro-5/Sibling_elements">
+        Sibling elements
+        </Link>
+        <Link href="../Pro-5/Dynamic_Array">
+        Dynamic Array
+        </Link>
+        <Link href="../Pro-5/Redux_store">
+        Redux store
+        </Link>
+        <Link href="../Pro-5/Random_quote">
+        Random quote
+        </Link>
+        <Link href="../Pro-5/Markdown_previewer">
+        Markdown previewer
+        </Link>
+        <Link href="../Pro-5/Drum_machine">
+        Drum machine
+        </Link>
         </div>
         </div>
       </>
