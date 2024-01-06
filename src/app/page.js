@@ -211,6 +211,9 @@ export default function Home() {
         <Link href="../Pro-5/Drum_machine">
         Drum machine
         </Link>
+        <Link href="../Pro-5/Calculator">
+        Calculator
+        </Link>
         </div>
         </div>
       </>
