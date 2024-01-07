@@ -214,6 +214,9 @@ export default function Home() {
         <Link href="../Pro-5/Calculator">
         Calculator
         </Link>
+        <Link href="../Pro-5/25+5clock">
+        25+5clock
+        </Link>
         </div>
         </div>
       </>
